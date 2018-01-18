@@ -1,0 +1,11 @@
+{
+    "id": "base64",
+    "type": "package",
+    "value": {
+        "description": "Base64 encoding",
+        "author": "Wayne Scott",
+        "version": "1.0.0",
+        "language": "c",
+        "managed": false
+    }
+}
